@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-- [Acesse o projeto finalizado, online](https://quitferr.github.io/03-formulario/)
+- [Acesse o projeto finalizado, online](https://quitferr.github.io/blog-de-gatos/)
 
 ## 🔖 Layout
 
